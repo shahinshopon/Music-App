@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "117740331229",
+    "project_id": "the-music-house",
+    "storage_bucket": "the-music-house.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117740331229:android:db2d221eda4aff6ac13b34",
+        "android_client_info": {
+          "package_name": "com.example.music_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117740331229-e5c05ct67eo9pvfjmvc1a05gorulnpl3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtdBnkekHy_IC1LatDmY4r3SzBYZXQna0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117740331229-e5c05ct67eo9pvfjmvc1a05gorulnpl3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
